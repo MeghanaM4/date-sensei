@@ -14,6 +14,8 @@ This is an SO-101 ARM robot arm to coach you through your dates, made with a Ler
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/a9baef04318694f9_pxl_20251221_214222896.jpg">
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/162224b55ed18f82_pxl_20251221_214607063.jpg">
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/69945c6d252af2c6_1000046222.jpg">
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/a25712667b6eefee_screenshot_from_2025-12-21_14-04-18.png">
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/880b4db43449e59f_screenshot_from_2025-12-21_14-05-21.png">
 
 ## Wiring Diagram
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/8b938e102865fa7f_9285afd5-4674-4ba9-bb25-ccc90c85baae_2.jpg">

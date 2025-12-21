@@ -24,3 +24,4 @@ This is an SO-101 ARM robot arm to coach you through your dates, made with a Ler
 We used the [HuggingFace Lerobot SO-101 ARM](https://huggingface.co/docs/lerobot/en/so101) with a wrist cam, ring lights, a webcam, and a standing camera. Our PC was a Dell Pro Max 16 with an AMD Ryzen™ AI 9 HX PRO 370 w/ Radeon™ 890M × 24 processor (thank you AMD), and to train we used AMD's ROCm GPU. the ring light, all 3 cameras, and both the leader and follower arm were connected to the PC via USB (we used 2 USB hubs).
 
 ## Video Demo
+[Watch here!](https://youtu.be/6Qo7Gj-W9XU)

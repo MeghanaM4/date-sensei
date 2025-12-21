@@ -1,4 +1,4 @@
-# date-sensei
+# Date Sensei
 Made by team 5 at [prototype](https://blueprint.hackclub.com/prototype)
 
 | Name | GitHub Username |

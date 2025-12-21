@@ -1,5 +1,5 @@
 # Date Sensei
-Made by team 5 at [prototype](https://blueprint.hackclub.com/prototype)
+Made by team 5 at [Hack Club and AMD's Prototype](https://blueprint.hackclub.com/prototype)
 
 | Name | GitHub Username |
 | ---- | --------------- |

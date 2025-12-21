@@ -5,7 +5,7 @@ Made by team 5 at [prototype](https://blueprint.hackclub.com/prototype)
 | ---- | --------------- |
 | Meghana Madiraju | [MeghanaM4](https://github.com/MeghanaM4) |
 | Estella Gu | [themagicfrog](https://github.com/themagicfrog) |
-| Vijeta | | 
+| Vijeta | [Vijeta-Garg] 
 
 [img of project]
 

@@ -1,0 +1,21 @@
+INFO 2025-12-21 17:10:21 db_utils.py:102 [1m[34mLogs will be synced with wandb.[0m
+INFO 2025-12-21 17:10:21 db_utils.py:103 Track this run --> [1m[33mhttps://wandb.ai/meghanam4-hack-club/lerobot/runs/fj768rxr[0m
+INFO 2025-12-21 17:10:21 ot_train.py:183 Creating dataset
+INFO 2025-12-21 17:10:21 ot_train.py:202 Creating policy
+Loading weights from local directory
+INFO 2025-12-21 17:10:23 ot_train.py:247 Creating optimizer and scheduler
+Traceback (most recent call last):
+  File "/opt/venv/bin/lerobot-train", line 7, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/workspace/lerobot/src/lerobot/scripts/lerobot_train.py", line 444, in main
+    train()
+  File "/workspace/lerobot/src/lerobot/configs/parser.py", line 233, in wrapper_inner
+    response = fn(cfg, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/lerobot/src/lerobot/scripts/lerobot_train.py", line 253, in train
+    step, optimizer, lr_scheduler = load_training_state(cfg.checkpoint_path, optimizer, lr_scheduler)
+                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/lerobot/src/lerobot/utils/train_utils.py", line 157, in load_training_state
+    raise NotADirectoryError(training_state_dir)
+NotADirectoryError: /home/bob/training_state

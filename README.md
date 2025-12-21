@@ -9,6 +9,7 @@ Made by Team 5 at [Hack Club and AMD's Prototype](https://blueprint.hackclub.com
 
 # Pictures
 <img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/a9baef04318694f9_pxl_20251221_214222896.jpg">
+<img src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/69945c6d252af2c6_1000046222.jpg">
 
 ## What It Does
 This is an SO-101 ARM robot arm to coach you through your dates, made with a Lerobot SO-101 ARM and AMD AI magic. When the camera sees the person put their elbows on the table, look on their phone, or do the 6-7 hand gesture, the robot arm will throw papers red flag at the person.

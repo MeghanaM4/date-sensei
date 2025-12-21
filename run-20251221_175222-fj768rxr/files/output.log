@@ -1,0 +1,103 @@
+INFO 2025-12-21 17:52:22 db_utils.py:102 [1m[34mLogs will be synced with wandb.[0m
+INFO 2025-12-21 17:52:22 db_utils.py:103 Track this run --> [1m[33mhttps://wandb.ai/meghanam4-hack-club/lerobot/runs/fj768rxr[0m
+INFO 2025-12-21 17:52:22 ot_train.py:183 Creating dataset
+INFO 2025-12-21 17:52:23 ot_train.py:202 Creating policy
+Loading weights from local directory
+INFO 2025-12-21 17:52:24 ot_train.py:247 Creating optimizer and scheduler
+INFO 2025-12-21 17:52:26 ot_train.py:259 [1m[33mOutput dir:[0m outputs/train/phone67modelv3
+INFO 2025-12-21 17:52:26 ot_train.py:262 cfg.steps=10000 (10K)
+INFO 2025-12-21 17:52:26 ot_train.py:263 dataset.num_frames=107896 (108K)
+INFO 2025-12-21 17:52:26 ot_train.py:264 dataset.num_episodes=606
+INFO 2025-12-21 17:52:26 ot_train.py:267 Effective batch size: 64 x 1 = 64
+INFO 2025-12-21 17:52:26 ot_train.py:268 num_learnable_params=51597190 (52M)
+INFO 2025-12-21 17:52:26 ot_train.py:269 num_total_params=51597190 (52M)
+INFO 2025-12-21 17:52:26 ot_train.py:324 Start offline training on a fixed dataset
+INFO 2025-12-21 17:54:39 ot_train.py:351 step:6K smpl:397K ep:2K epch:3.68 loss:0.106 grdn:6.465 lr:1.0e-05 updt_s:0.637 data_s:0.030
+INFO 2025-12-21 17:55:59 ot_train.py:351 step:6K smpl:410K ep:2K epch:3.80 loss:0.103 grdn:6.074 lr:1.0e-05 updt_s:0.387 data_s:0.014
+INFO 2025-12-21 17:57:19 ot_train.py:351 step:7K smpl:422K ep:2K epch:3.91 loss:0.099 grdn:5.700 lr:1.0e-05 updt_s:0.386 data_s:0.014
+INFO 2025-12-21 17:58:39 ot_train.py:351 step:7K smpl:435K ep:2K epch:4.03 loss:0.098 grdn:5.241 lr:1.0e-05 updt_s:0.387 data_s:0.014
+INFO 2025-12-21 17:59:59 ot_train.py:351 step:7K smpl:448K ep:3K epch:4.15 loss:0.097 grdn:5.592 lr:1.0e-05 updt_s:0.386 data_s:0.014
+INFO 2025-12-21 18:01:20 ot_train.py:351 step:7K smpl:461K ep:3K epch:4.27 loss:0.096 grdn:5.486 lr:1.0e-05 updt_s:0.387 data_s:0.014
+INFO 2025-12-21 18:02:40 ot_train.py:351 step:7K smpl:474K ep:3K epch:4.39 loss:0.093 grdn:5.476 lr:1.0e-05 updt_s:0.387 data_s:0.014
+INFO 2025-12-21 18:04:00 ot_train.py:351 step:8K smpl:486K ep:3K epch:4.51 loss:0.093 grdn:5.166 lr:1.0e-05 updt_s:0.387 data_s:0.014
+INFO 2025-12-21 18:06:01 ot_train.py:351 step:8K smpl:499K ep:3K epch:4.63 loss:0.089 grdn:5.220 lr:1.0e-05 updt_s:0.565 data_s:0.039
+INFO 2025-12-21 18:07:21 ot_train.py:351 step:8K smpl:512K ep:3K epch:4.75 loss:0.089 grdn:5.262 lr:1.0e-05 updt_s:0.387 data_s:0.014
+INFO 2025-12-21 18:08:41 ot_train.py:351 step:8K smpl:525K ep:3K epch:4.86 loss:0.089 grdn:5.449 lr:1.0e-05 updt_s:0.387 data_s:0.014
+INFO 2025-12-21 18:10:02 ot_train.py:351 step:8K smpl:538K ep:3K epch:4.98 loss:0.086 grdn:5.173 lr:1.0e-05 updt_s:0.387 data_s:0.014
+INFO 2025-12-21 18:11:22 ot_train.py:351 step:9K smpl:550K ep:3K epch:5.10 loss:0.088 grdn:5.263 lr:1.0e-05 updt_s:0.387 data_s:0.014
+INFO 2025-12-21 18:12:42 ot_train.py:351 step:9K smpl:563K ep:3K epch:5.22 loss:0.085 grdn:5.180 lr:1.0e-05 updt_s:0.388 data_s:0.014
+INFO 2025-12-21 18:14:02 ot_train.py:351 step:9K smpl:576K ep:3K epch:5.34 loss:0.086 grdn:5.366 lr:1.0e-05 updt_s:0.387 data_s:0.014
+INFO 2025-12-21 18:15:23 ot_train.py:351 step:9K smpl:589K ep:3K epch:5.46 loss:0.082 grdn:5.147 lr:1.0e-05 updt_s:0.388 data_s:0.014
+INFO 2025-12-21 18:16:50 ot_train.py:351 step:9K smpl:602K ep:3K epch:5.58 loss:0.082 grdn:5.252 lr:1.0e-05 updt_s:0.387 data_s:0.048
+INFO 2025-12-21 18:18:10 ot_train.py:351 step:10K smpl:614K ep:3K epch:5.69 loss:0.080 grdn:4.917 lr:1.0e-05 updt_s:0.388 data_s:0.014
+INFO 2025-12-21 18:19:30 ot_train.py:351 step:10K smpl:627K ep:4K epch:5.81 loss:0.080 grdn:5.018 lr:1.0e-05 updt_s:0.387 data_s:0.014
+INFO 2025-12-21 18:20:51 ot_train.py:351 step:10K smpl:640K ep:4K epch:5.93 loss:0.077 grdn:4.720 lr:1.0e-05 updt_s:0.387 data_s:0.014
+INFO 2025-12-21 18:20:51 ot_train.py:361 Checkpoint policy after step 10000
+INFO 2025-12-21 18:20:52 ot_train.py:430 End of training
+Traceback (most recent call last):
+  File "/opt/venv/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 407, in hf_raise_for_status
+    response.raise_for_status()
+  File "/opt/venv/lib/python3.12/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 403 Client Error: Forbidden for url: https://huggingface.co/api/models/MeghanaM4/phone67modelv3/xet-write-token/main
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/opt/venv/bin/lerobot-train", line 7, in <module>
+    sys.exit(main())
+             ^^^^^^
+  File "/workspace/lerobot/src/lerobot/scripts/lerobot_train.py", line 444, in main
+    train()
+  File "/workspace/lerobot/src/lerobot/configs/parser.py", line 233, in wrapper_inner
+    response = fn(cfg, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspace/lerobot/src/lerobot/scripts/lerobot_train.py", line 434, in train
+    unwrapped_policy.push_model_to_hub(cfg)
+  File "/workspace/lerobot/src/lerobot/policies/pretrained.py", line 228, in push_model_to_hub
+    commit_info = api.upload_folder(
+                  ^^^^^^^^^^^^^^^^^^
+  File "/opt/venv/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/opt/venv/lib/python3.12/site-packages/huggingface_hub/hf_api.py", line 1669, in _inner
+    return fn(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/venv/lib/python3.12/site-packages/huggingface_hub/hf_api.py", line 4993, in upload_folder
+    commit_info = self.create_commit(
+                  ^^^^^^^^^^^^^^^^^^^
+  File "/opt/venv/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/opt/venv/lib/python3.12/site-packages/huggingface_hub/hf_api.py", line 1669, in _inner
+    return fn(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/venv/lib/python3.12/site-packages/huggingface_hub/hf_api.py", line 4250, in create_commit
+    self.preupload_lfs_files(
+  File "/opt/venv/lib/python3.12/site-packages/huggingface_hub/hf_api.py", line 4534, in preupload_lfs_files
+    _upload_xet_files(**upload_kwargs, create_pr=create_pr)  # type: ignore [arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/venv/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/opt/venv/lib/python3.12/site-packages/huggingface_hub/_commit_api.py", line 538, in _upload_xet_files
+    xet_connection_info = fetch_xet_connection_info_from_repo_info(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/venv/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/opt/venv/lib/python3.12/site-packages/huggingface_hub/utils/_xet.py", line 158, in fetch_xet_connection_info_from_repo_info
+    return _fetch_xet_connection_info_with_url(url, headers, params)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/venv/lib/python3.12/site-packages/huggingface_hub/utils/_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/opt/venv/lib/python3.12/site-packages/huggingface_hub/utils/_xet.py", line 187, in _fetch_xet_connection_info_with_url
+    hf_raise_for_status(resp)
+  File "/opt/venv/lib/python3.12/site-packages/huggingface_hub/utils/_http.py", line 471, in hf_raise_for_status
+    raise _format(HfHubHTTPError, message, response) from e
+huggingface_hub.errors.HfHubHTTPError: (Request ID: Root=1-69483a86-4bd0e3130d4722e441d21462;dd7afef0-a50b-4031-b29b-48d753036537)
+
+403 Forbidden: Forbidden: pass `create_pr=1` as a query parameter to create a Pull Request.
+Cannot access content at: https://huggingface.co/api/models/MeghanaM4/phone67modelv3/xet-write-token/main.
+Make sure your token has the correct permissions.
